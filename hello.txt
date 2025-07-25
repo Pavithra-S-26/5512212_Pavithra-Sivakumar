@@ -1,2 +1,3 @@
 Hello GitHub
 Pavithra is learning Git step by steps
+This is a new feature by Pavithra!
