@@ -1,5 +1,7 @@
 
 This line is from the MAIN branch
+This line is from the CONFLICT branch
+conflict resolved successfully
 Pavithra is learning Git step by steps
 This is a new feature by Pavithra!
 
